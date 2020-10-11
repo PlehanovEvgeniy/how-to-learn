@@ -308,13 +308,16 @@
 }
 .footer__column-links {
   list-style: none;
-  color: white;
-  text-decoration: none;
   padding: 0;
   margin: 0;
+  
+}
+.footer__column-link {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+  text-decoration: none;
+  color: white;
 }
 .footer__column_content_social {
   flex-direction: column;

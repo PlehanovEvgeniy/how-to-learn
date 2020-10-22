@@ -3,9 +3,10 @@
     font-size: 30px;
     font-weight: normal;
     display: flex;
-    position: absolute;
+    align-self: flex-start;
     text-decoration: none;
-    left: 668px;
+    padding-left: 48px;
+    color: #2f80ed;
 }
 
 .khan__buy-link:hover {
